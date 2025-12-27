@@ -30,3 +30,18 @@ A full desktop application built using Java and JavaFX to manage pharmacy operat
 
 ## Author
 Computer Science Student
+
+## Skills Demonstrated
+- Object-Oriented Programming (OOP)
+- Java & JavaFX
+- MVC Architecture
+- CRUD Operations
+- File-based / Database Storage
+- User Authentication & Roles
+- Clean UI Design
+
+## Ideal For
+- University projects
+- Small pharmacies
+- Java OOP practice
+
